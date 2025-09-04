@@ -21,7 +21,3 @@ This repository contains a Vault Explorer Extension for Autodesk Vault that allo
 ## At your own risk
 The usage of these samples is at your own risk. There is no free support related to the samples. However, if you have questions to powerJobs, then visit http://www.coolorange.com/wiki or start a conversation in our support forum at http://support.coolorange.com/support/discussions
 
-## Author
-coolOrange s.r.l.
-
-![coolOrange](https://i.ibb.co/NmnmjDT/Logo-CO-Full-colore-RGB-short-Payoff.png)
